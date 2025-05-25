@@ -13,7 +13,7 @@
 - **9 de enero de 2009:** Satoshi lanza el software Bitcoin v0.1 (disponible en SourceForge), dando inicio formal a la red P2P de Bitcoin.
 
 <p align="center">
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Genesis_block.png/800px-Genesis_block.png]" alt="Bloque Génesis de Bitcoin" width="600"/>
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Genesis_block.png/800px-Genesis_block.png]https://wiki.lemon.me/wp-content/uploads/2022/10/contenido-22.png" alt="Bloque Génesis de Bitcoin" width="600"/>
   <br/>
   <i>Bloque Génesis de Bitcoin</i>
 </p>
