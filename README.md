@@ -36,7 +36,7 @@
 - **Otros nombres notables:** Martti Malmi (sirius), Laszlo Hanyecz, Gavin Andresen (posterior desarrollador clave).
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Bitcoin_Blockchain_Structure.png" alt="Estructura Blockchain Bitcoin" width="600"/>
+  <img src="https://i.blogs.es/eb1a62/blockchain/1366_2000.png" alt="Estructura Blockchain Bitcoin" width="600"/>
   <br/>
   <i>Estructura de la Blockchain de Bitcoin</i>
 </p>
