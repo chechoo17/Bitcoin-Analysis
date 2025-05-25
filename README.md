@@ -19,7 +19,7 @@
 > Aunque Bitcoin v0.1 no tiene GUI moderna, puedes mostrar su funcionamiento con una animación terminal o capturas del software corriendo en Windows XP.
 
 <p align="center">
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bitcoin_Logo.svg/1200px-Bitcoin_Logo.svg.png" width="200" alt="Bitcoin Logo](https://logos-marcas.com/bitcoin-logo/](https://logos-marcas.com/wp-content/uploads/2020/08/Bitcoin-Logo-650x366.png)"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bitcoin_Logo.svg/1200px-Bitcoin_Logo.svg.png" width="200" alt="Bitcoin Logo"/>
 </p>
 
 Para un demo más visual puedes usar [asciinema](https://asciinema.org/) o grabar un GIF mostrando cómo se mina un bloque con CPU.
