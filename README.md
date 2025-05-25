@@ -41,7 +41,6 @@
   <i>Estructura de la Blockchain de Bitcoin</i>
 </p>
 
----
 
 ## 2. Funcionamiento de la Blockchain en Bitcoin v0.1
 
@@ -68,7 +67,6 @@
 - **12 de enero de 2009:** Hal Finney recibe 10 BTC de Satoshi Nakamoto en la primera transacción persona a persona registrada (bloque #170).
 - Durante los primeros meses, muchas transacciones se realizaron entre Satoshi y los pocos colaboradores, como pruebas de funcionamiento.
 
----
 
 ## 3. Estadísticas Económicas y Financieras
 
@@ -109,7 +107,7 @@
 - Poco interés institucional; la mayoría de economistas lo ignoraban o lo veían como una curiosidad técnica.
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Bitcoin_talk_forum.png" alt="Foro Bitcointalk" width="600"/>
+  <img src="https://i2.wp.com/wp.criptodinero.es/wp-content/uploads/2019/09/8980.png?fit=770%2C469&ssl=1" alt="Foro Bitcointalk" width="600"/>
   <br/>
   <i>Foro Bitcointalk, epicentro de la comunidad inicial</i>
 </p>
