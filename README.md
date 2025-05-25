@@ -58,7 +58,7 @@
 - **Dificultad inicial:** 1 (la más baja posible). Tardó varios días en ajustarse (2016 bloques ≈ 2 semanas).
 
 <p align="center">
-  <img src="https://miro.medium.com/max/1400/1*9rl6k4mlT8x6Q0nQdn8qQw.png" alt="CPU Mining" width="500"/>
+  <img src="https://hardzone.es/app/uploads-hardzone.es/2020/11/Mineria_Granja_GPUs.jpg" alt="CPU Mining" width="500"/>
   <br/>
   <i>Minado de Bitcoin con CPU en los primeros días</i>
 </p>
