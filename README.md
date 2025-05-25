@@ -77,7 +77,7 @@
 - **Mayo de 2010:** La famosa compra de dos pizzas por 10,000 BTC por Laszlo Hanyecz establece la primera transacción comercial.
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Bitcoin_pizza.jpg" alt="Bitcoin Pizza" width="400"/>
+  <img src="https://d31dn7nfpuwjnm.cloudfront.net/images/valoraciones/0067/9799/bitcon-pizza-day_foro.jpg?1747900959" alt="Bitcoin Pizza" width="400"/>
   <br/>
   <i>Laszlo Hanyecz y la famosa compra de pizzas con Bitcoin</i>
 </p>
